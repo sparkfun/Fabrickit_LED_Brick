@@ -1,7 +1,7 @@
 Fabrickit LED Brick
 ====================
 
-[![Fabrickit LED Brick](URL for picture of part  
+[![Fabrickit LED Brick](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/0/4/1/2/10412-01_i_ma.jpg) 
 *Fabrickit LED Brick (DEV-10412)*](https://www.sparkfun.com/products/10412)
 
 This is an LED brick for the fabrickit collection. 
